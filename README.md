@@ -1,2 +1,2 @@
-# test123
+# js-game
 Created with CodeSandbox
